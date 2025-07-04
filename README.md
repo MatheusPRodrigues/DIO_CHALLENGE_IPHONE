@@ -31,7 +31,9 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 ## Implementação 
 
-Para complementar o desafio deste módulo, primeiro realizei a construção do diagrama de classes
+Para complementar o desafio deste módulo, primeiro realizei a construção do diagrama de classes.
+
+Obs: Clique no diagrama para visualizá-lo melhor.
 
 ![diagrama](diagram/iphone_diagram.png)
 
