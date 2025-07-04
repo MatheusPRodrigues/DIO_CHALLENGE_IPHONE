@@ -33,8 +33,6 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 Para complementar o desafio deste módulo, primeiro realizei a construção do diagrama de classes.
 
-Obs: Clique no diagrama para visualizá-lo melhor.
-
 ![diagrama](diagram/iphone_diagram.png)
 
 Seguindo agora para o código, implementei as interfaces dentro da classe IphoneModel partindo depois para a construção do menu do iphone e das respectivas funcionalidades.
